@@ -1,0 +1,80 @@
+/* #Animations */
+
+@keyframes fromPortugalToAngola {
+    from {
+        top: 190px;
+        left: 435px;
+    }
+    to {
+        top: 310px;
+        left: 495px;
+        
+    }
+}
+
+.fromPortugalToAngola {
+    animation: fromPortugalToAngola 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fromAngolaToMexico {
+    from {
+        top: 310px;
+        left: 495px;
+    }
+    to {
+        top: 230px;
+        left: 205px;
+    }
+}
+
+.fromAngolaToMexico {
+    animation: fromAngolaToMexico 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fromMexicoToPortugal {
+    from {
+        top: 230px;
+        left: 205px;
+    }
+    to {
+        top: 190px;
+        left: 435px;
+    }
+}
+
+.fromMexicoToPortugal {
+    animation: fromMexicoToPortugal 5s;
+    animation-fill-mode: forwards;
+}
+
+.firstRotation {
+    transform: rotate(60deg);
+}
+
+.secondRotation {
+    transform: rotate(193deg);
+}
+
+.thirdRotation {
+    transform: rotate(339deg);
+}
+
+/* end of animations */
+
+#plane {
+    top: 190px;
+    left: 435px;
+    position: relative;
+}
+
+#map {
+    margin: 0 auto;
+    background-image: url('rawpixel-1090878-unsplash.jpg');
+    width: 1000px;
+    height: 465px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    background-size: 100% 465px;   
+}
