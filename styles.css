@@ -78,3 +78,45 @@
     background-repeat: no-repeat;
     background-size: 100% 465px;   
 }
+
+#content {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+footer {
+    text-align: center;
+    margin: 10px auto 0 auto;
+    color: #bfbfbf;
+    font-size: 10px;
+    font-weight: 300;
+    font-family: 'Helvetica Neue';
+  }
+  
+  footer spam {
+    font-weight: 600;
+  }
+
+  ul {
+    padding: 20px 0 20px 0;
+    width: 100%;
+    margin: auto;
+}
+
+  ul > li {
+    display: inline-block;
+}
+
+li {
+    text-align: center;
+    padding-right: 16px;
+}
+
+li:last-child {
+    padding: 0;
+}
+
+li p {
+    margin: 0;
+    padding: 0;
+}
