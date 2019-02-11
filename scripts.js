@@ -3,7 +3,9 @@ var body = document.querySelector('body');
 
 var movesClasses = ['fromPortugalToAngola', 'fromAngolaToMexico', 'fromMexicoToPortugal'];
 var planeRotations = ['firstRotation', 'secondRotation', 'thirdRotation'];
+var imageCards = document.querySelectorAll('.imageCard');
 var counter = 0;
+var imageCardCounter = 0;
 
 body.addEventListener('keypress', function(e) {
 
@@ -11,9 +13,21 @@ body.addEventListener('keypress', function(e) {
         return;
     }
 
+    if (imageCardCounter !== 6) {
+        imageCards[imageCardCounter].classList.remove('hidden');
+        imageCardCounter++;
+        return;
+    }
+
     plane.className = 'fas fa-plane';
     plane.classList.add(planeRotations[counter])
     plane.classList.add(movesClasses[counter]);
+
+    imageCards.forEach(function(imageCard) {
+        imageCard.classList.add('hidden');
+    });
+
+    imageCardCounter = 0;
     counter++;
 
     if (counter > 2) {

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .wrapper {
+            width: 1000px;
+            margin: 15% auto 0 auto;
+            text-align: center;
+        }
+
+        .full-name {
+            font-size: 40px;
+        }
+
+        ul > li {
+            display: inline-block;
+        }
+
+        ul {
+            padding: 0;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <p class="full-name">
+            <span class="name hidden">Luis</span>
+            <span class="name hidden">Filipe</span>
+            <span class="name hidden">Oliveira</span>
+            <span class="name hidden">Cousinha</span>
+            <span class="name hidden">de</span>
+            <span class="name hidden">Vasconcelos</span>
+            <span class="name hidden">Forra</span>
+        </p>
+        <ul class="passions">
+            <li class="hidden">something</li>
+            <li class="hidden">something</li>
+            <li class="hidden">something</li>
+            <li class="hidden">something</li>
+            <li class="hidden">something</li>
+            <li class="hidden">something</li>
+        </ul>
+    </div>
+    <script>
+        var names = document.querySelector('.full-name').children;
+        var passions = document.querySelector('.passions').children;
+        var body = document.querySelector('body');
+
+        var nameCounter = 0;
+        var passionsCounter = 0;
+
+        body.addEventListener('keypress', function(e) {
+
+            if (e.keyCode !== 13) {
+                return;
+            }
+
+            if (nameCounter !== 7) {
+                names[nameCounter].classList.remove('hidden');
+                nameCounter++;
+                return;
+            }
+
+            if (passionsCounter !== 6) {
+                passions[passionsCounter].classList.remove('hidden');
+                passionsCounter++;
+                return;
+            }
+
+            window.location = "presentation.html";
+        })
+    
+    </script>
+</body>
+</html>
