@@ -22,6 +22,13 @@ https://creativemarket.com/MehmetRehaTugcu/29707-Vertex-Minimal-Presentation/scr
 
 ### 2ª Página: Portugal I
 
+1- Foto Logotipo Carrefour
+2- Vendedor
+3- Gestor
+4- Comprador Junior
+5- Sinfic
+6- IR ANGOLA
+
 * Carrefour Operador -> Vendedor -> Gestor -> Comprador Junior
 * Fujitsu Siemens
 * Sinfic
@@ -29,6 +36,13 @@ https://creativemarket.com/MehmetRehaTugcu/29707-Vertex-Minimal-Presentation/scr
 -> mochila as costas e lá fui eu...
 
 ### 2ª Página: Angola
+
+1-
+2-
+3-
+4-
+5-
+6-
 
 * Sinfic Angola
     - Implementação da solução (documentação, criação de fluxos de metodos de trabalho, formação, contratação)
@@ -48,6 +62,13 @@ após 5 anos em Angola colocamos a mochila as costas e lá fomos nós...
 
 ### 2ª Página: Mexico
 
+1-
+2-
+3-
+4-
+5-
+6-
+
 * Nascimento da Sofia
 * Montamos um escritorio em casa e remotamente seguimos com a empresa de Design. Conseguimos manter alguns clientes de Angola e conseguir outros no México e Estados Unidos. 
 * Deu tempo para ser Pai, continuar a estudar programação e a trabalhar na nossa empresa.
@@ -57,7 +78,14 @@ após 5 anos em Angola colocamos a mochila as costas e lá fomos nós...
 -> O Mexico esta num momento que tem varios problemas sociais e por isso achavamos que era um bom momento para irmos viver para Portugal.
 ...e após 3 anos no México colocamos novamente a mochila as costas e lá fomos nós... 
 
-### 2ª Página: Portugal I
+### 2ª Página: Portugal II
+
+1-
+2-
+3-
+4-
+5-
+6-
 
 * Chegamos em Janeiro de 2018 (1 ano).
 * Comecei de imediato a enviar CV para começar o mais brevemente possivel mas queria entrar na área da programação.
