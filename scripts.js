@@ -6,12 +6,19 @@ var planeRotations = ['firstRotation', 'secondRotation', 'thirdRotation'];
 var imageCards = document.querySelectorAll('.imageCard');
 var counter = 0;
 var imageCardCounter = 0;
+var clicksCounter = 0;
 
 body.addEventListener('keypress', function(e) {
 
     if (e.keyCode !== 13) {
         return;
     }
+
+    if (clicksCounter === 28) {
+        window.location = "end.html";
+        return;
+    }
+    clicksCounter++;
 
     if (imageCardCounter !== 6) {
         imageCards[imageCardCounter].classList.remove('hidden');

@@ -1,5 +1,9 @@
 # Apresentação
 
+basear imagem neste template:
+https://creativemarket.com/MehmetRehaTugcu/29707-Vertex-Minimal-Presentation/screenshots#screenshot2
+
+
 ## 1ª Página: Apresentação
 * Fazer uma pequena explicação de como está organizada a minha apresentação e como a fiz.
 
@@ -12,7 +16,6 @@
     - meditação
     - musica, principalmente rock
     - adoro jogar video-jogos.
-    - snowboard e jogar a bola.
 
 * Desisti da escola cedo demais (a meio do meu 10º ano para preseguir a minha tão desejada independecia).
 -> e por isso entreguei no mercado de trabalho muito cedo.
