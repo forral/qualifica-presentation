@@ -63,6 +63,11 @@
 
 /* end of animations */
 
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color:  #dde2e3;
+}
+
 #plane {
     top: 190px;
     left: 435px;
@@ -106,6 +111,7 @@ ul {
 
 ul > li {
     display: inline-block;
+    color: #72747a;
 }
 
 li {

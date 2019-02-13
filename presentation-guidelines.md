@@ -3,6 +3,9 @@
 basear imagem neste template:
 https://creativemarket.com/MehmetRehaTugcu/29707-Vertex-Minimal-Presentation/screenshots#screenshot2
 
+palete de cores:
+http://colorpalettes.net/color-paelette-1345/
+
 
 ## 1ª Página: Apresentação
 * Fazer uma pequena explicação de como está organizada a minha apresentação e como a fiz.

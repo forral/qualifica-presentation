@@ -14,7 +14,7 @@ body.addEventListener('keypress', function(e) {
         return;
     }
 
-    if (clicksCounter === 28) {
+    if (clicksCounter === 27) {
         window.location = "end.html";
         return;
     }
