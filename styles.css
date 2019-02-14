@@ -73,35 +73,24 @@ html {
     top: 190px;
     left: 435px;
     position: relative;
+    color: black;
 }
 
 #map {
     margin: 0 auto;
-    background-image: url('rawpixel-1090878-unsplash.jpg');
+    background-image: url('grey-all.png');
     width: 1000px;
     height: 465px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     background-repeat: no-repeat;
     background-size: 100% 465px;   
 }
 
 #content {
+    text-align: center;
     margin: 0 auto;
     width: 1000px;
     height: 234px;
-}
-
-footer {
-    text-align: center;
-    margin: 10px auto 0 auto;
-    color: #bfbfbf;
-    font-size: 10px;
-    font-weight: 300;
-    font-family: 'Helvetica Neue';
-  }
-  
-footer spam {
-    font-weight: 600;
 }
 
 ul {
@@ -127,8 +116,19 @@ li:last-child {
 li p {
     margin: 0;
     padding: 0;
+    font-size: 10px;
 }
 
 .hidden {
     display: none;
+}
+
+.imageCard div {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    width: 125px;
+    height: 135px;
+}
+
+.imageCard img {
+    padding-top: 10px;
 }

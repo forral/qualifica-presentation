@@ -6,10 +6,12 @@ https://creativemarket.com/MehmetRehaTugcu/29707-Vertex-Minimal-Presentation/scr
 palete de cores:
 http://colorpalettes.net/color-paelette-1345/
 
+9d9c9
+
 # TODO:
 
 - [ ] Organizar os ficheiros do projecto.
-- [ ] Mudar os icons para SVG para conseguir controlar a cor deles.
+- [x] Mudar os icons para SVG para conseguir controlar a cor deles.
 
 
 ## 1ª Página: Apresentação
