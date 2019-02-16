@@ -102,11 +102,15 @@ ul {
 ul > li {
     display: inline-block;
     color: #72747a;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    width: 125px;
+    height: 135px;
+    background-color: white;
 }
 
 li {
     text-align: center;
-    padding-right: 16px;
+    margin-right: 16px;
 }
 
 li:last-child {
@@ -123,12 +127,27 @@ li p {
     display: none;
 }
 
-.imageCard div {
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    width: 125px;
-    height: 135px;
+.imageCard p {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin: 0;
+    padding: 0;
+    font-size: 19px;
+    position: relative;
+    top: 3px;
+    left: 0px;
+    font-weight: 500;
+}
+
+.image-border {
+    /* border: 1px solid #aba7a9; */
+    width: 100px;
+    height: 100px;    
+    margin: 0 auto;
+    position: relative;
+    top: 10px;
 }
 
 .imageCard img {
-    padding-top: 10px;
+    width: 100px;
+    height: 100px;
 }

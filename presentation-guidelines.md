@@ -10,12 +10,17 @@ http://colorpalettes.net/color-paelette-1345/
 
 # TODO:
 
-- [ ] Organizar os ficheiros do projecto.
+- [ ] colocar o fecho das quotations
+- [ ] mudar o tipo de fonte do fundo dos polaroids
 - [x] Mudar os icons para SVG para conseguir controlar a cor deles.
 
 
 ## 1ª Página: Apresentação
 * Fazer uma pequena explicação de como está organizada a minha apresentação e como a fiz.
+- Explicar que tecnologias usei
+    - HTML
+    - CSS
+    - JAVASCRIPT
 
 * Olá o meu nome é Luís Filipe Oliveira Cousinha de Vasconcelos Forra.
 * Tenho 38 anos, sou casado a 8 anos com a minha mulher que conheci no méxico e juntos estamos a fazer o nosso melhor para educar a nossa filha de 4 anos.
@@ -32,10 +37,10 @@ http://colorpalettes.net/color-paelette-1345/
 
 ### 2ª Página: Portugal I
 
-1- Foto Logotipo Carrefour
-2- Vendedor
-3- Gestor
-4- Comprador Junior
+1- Foto Logotipo Carrefour - Vendedor
+2- gestor
+3- Comprador Junior
+4- Fujitsu
 5- Sinfic
 6- IR ANGOLA
 
@@ -47,12 +52,12 @@ http://colorpalettes.net/color-paelette-1345/
 
 ### 2ª Página: Angola
 
-1-
-2-
-3-
-4-
-5-
-6-
+1 - implentação da solução
+2 - coordenação
+3 - projecto: eleições
+4 - cafeína-design
+5 - gravida
+6 - mochila as costas
 
 * Sinfic Angola
     - Implementação da solução (documentação, criação de fluxos de metodos de trabalho, formação, contratação)
@@ -72,12 +77,12 @@ após 5 anos em Angola colocamos a mochila as costas e lá fomos nós...
 
 ### 2ª Página: Mexico
 
-1-
-2-
-3-
-4-
-5-
-6-
+1 - Nascimento sofia
+2 - Escritorio em casa - clientes angola
+3 - Daddy full time
+4 - Estudos
+5 - Bluehealth
+6 - Mochila as costas
 
 * Nascimento da Sofia
 * Montamos um escritorio em casa e remotamente seguimos com a empresa de Design. Conseguimos manter alguns clientes de Angola e conseguir outros no México e Estados Unidos. 
@@ -90,12 +95,12 @@ após 5 anos em Angola colocamos a mochila as costas e lá fomos nós...
 
 ### 2ª Página: Portugal II
 
-1-
-2-
-3-
-4-
-5-
-6-
+1 - freeCodeCamp Lisbon
+2 - Academia de Codigo
+3 - Hackaton
+4 - Novabase
+5 - Vodafone Irlanda
+6 - Qualifica
 
 * Chegamos em Janeiro de 2018 (1 ano).
 * Comecei de imediato a enviar CV para começar o mais brevemente possivel mas queria entrar na área da programação.

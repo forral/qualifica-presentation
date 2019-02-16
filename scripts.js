@@ -7,13 +7,16 @@ var imageCards = document.querySelectorAll('.imageCard');
 var counter = 0;
 var imageCardCounter = 0;
 var clicksCounter = 0;
+var polaroidCounter = 0;
 
 body.addEventListener('keypress', function(e) {
 
+    // if the key is not enter don't do nothing
     if (e.keyCode !== 13) {
         return;
     }
 
+    // change to the end when clicked enter 27 times
     if (clicksCounter === 27) {
         window.location = "end.html";
         return;
@@ -21,8 +24,12 @@ body.addEventListener('keypress', function(e) {
     clicksCounter++;
 
     if (imageCardCounter !== 6) {
-        imageCards[imageCardCounter].classList.remove('hidden');
+        var currentImageCard = imageCards[imageCardCounter];
+        currentImageCard.classList.remove('hidden');
+        currentImageCard.children[0].children[0].children[0].src= picturesTitles[polaroidCounter].url;
+        currentImageCard.children[0].children[1].textContent = picturesTitles[polaroidCounter].title;
         imageCardCounter++;
+        polaroidCounter++;
         return;
     }
 
