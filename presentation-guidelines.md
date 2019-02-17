@@ -10,7 +10,7 @@ http://colorpalettes.net/color-paelette-1345/
 
 # TODO:
 
-- [ ] colocar o fecho das quotations
+- [x] colocar o fecho das quotations
 - [ ] mudar o tipo de fonte do fundo dos polaroids
 - [x] Mudar os icons para SVG para conseguir controlar a cor deles.
 
