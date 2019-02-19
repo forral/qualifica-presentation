@@ -23,7 +23,10 @@ http://colorpalettes.net/color-paelette-1345/
     - JAVASCRIPT
 
 * Olá o meu nome é Luís Filipe Oliveira Cousinha de Vasconcelos Forra.
-* Tenho 38 anos, sou casado a 8 anos com a minha mulher que conheci no méxico e juntos estamos a fazer o nosso melhor para educar a nossa filha de 4 anos.
+* Tenho 38 anos, 
+* sou casado a 8 anos com a minha mulher que conheci no méxico 
+* e juntos estamos a fazer o nosso melhor para educar a nossa filha de 4 anos.
+
 * Sou apaixonado
     - pela minha familia
     - programação | desenvolvimento aplicações web
