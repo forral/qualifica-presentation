@@ -72,7 +72,7 @@ var picturesTitles = [
         url: 'backpack.png'
     },
     {
-        title: 'Free Code Camp Lisbon',
+        title: 'FCC Lisbon',
         url: 'fcc-lisbon.png'
     },
     {
